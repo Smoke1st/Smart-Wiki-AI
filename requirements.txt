@@ -1,0 +1,7 @@
+google-generativeai
+wikipedia
+sentence-transformers
+pandas
+sqlite3
+python-dotenv
+flask
