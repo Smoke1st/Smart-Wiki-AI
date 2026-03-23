@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 # إعداد Google Generative AI
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY", "YOUR_API_KEY"))
+genai.configure(api_key=os.getenv("pip install -r requirements.txt", "pip install -r requirements.txt"))
 model = genai.GenerativeModel('gemini-pro')
 
 # تحميل نموذج فهم المعاني
